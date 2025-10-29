@@ -88,9 +88,3 @@ Configure .env file like this:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-Author Name - [@sonymanetov](https://github.com/sonymanetov)
-
-Project Link: [https://github.com/sonymanetov/openai-agent-rag](https://github.com/sonymanetov/openai-agent-rag)
