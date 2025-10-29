@@ -39,8 +39,8 @@ Python 3.9.17 was used during development, but the code should work with later v
 1. Clone the repository:
 
   ```bash
-  git clone https://github.com/sonymanetov/openai-agent-rag.git
-  cd openai-agent-rag
+  git clone https://github.com/Colten1023/agentic-rag-demo.git
+  cd agentic-rag-demo
   ```
 
 
